@@ -1,0 +1,59 @@
+
+.titulo1 {
+    color: brown;
+    text-decoration: none;
+    font-size: 50px;
+    font-weight: bolder;
+  }
+
+  body {
+
+    background-image: url('/Img/img2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+
+}
+
+
+.cuadroUno {
+    width: 15%;
+    height: 35%;
+
+    background-color: rgba(174, 180, 188, 0.68);
+    display: inline-block;
+    margin-left: 300px;
+    margin-top: 200px;
+
+    text-align: center;
+
+    box-shadow: 5px 5px 15px;
+
+}
+
+.cuadroDos {
+    width: 15%;
+    height: 35%;
+    margin-left: 60px;
+    margin-top: -20px;
+    background-color: rgba(174, 180, 188, 0.68);
+    display: inline-block;
+
+    text-align: center;
+
+    box-shadow: 5px 5px 15px;
+}
+
+.cuadroTres {
+    width: 15%;
+    height: 35%;
+    margin-left: 60px;
+    background-color: rgba(174, 180, 188, 0.68);
+    display: inline-block;
+
+    text-align: center;
+
+    box-shadow: 5px 5px 15px;
+
+}
